@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bugless.glucosauce",
+      "sha256_cert_fingerprints": [
+        "CB:99:9F:89:51:BB:49:79:91:72:87:44:38:A2:1A:85:F3:A9:DC:75:93:00:EF:8A:8D:F4:2A:88:EE:F7:83:12"
+      ]
+    }
+  }
+]
